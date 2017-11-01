@@ -6,6 +6,10 @@ description = "Small parcel tracking app that uses 17track.net API."
 license = "Apache-2.0"
 readme = "README.md"
 
+documentation = "https://github.com/DoumanAsh/track17.rs"
+repository = "https://github.com/DoumanAsh/track17.rs"
+homepage = "https://github.com/DoumanAsh/track17.rs"
+
 [dependencies]
 clap = "2"
 
