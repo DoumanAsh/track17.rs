@@ -1,5 +1,8 @@
 # 17track client (Unofficial)
 
+[![Build status](https://ci.appveyor.com/api/projects/status/tufnh8sqgwd35rwv/branch/master?svg=true)](https://ci.appveyor.com/project/DoumanAsh/track17-rs/branch/master)
+[![Build Status](https://travis-ci.org/DoumanAsh/track17.rs.svg?branch=master)](https://travis-ci.org/DoumanAsh/track17.rs)
+
 Tracks parcels using 17track.net
 
 ## Usage

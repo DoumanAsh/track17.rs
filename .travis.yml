@@ -18,7 +18,6 @@ matrix:
 sudo: false
 
 script:
-  - cargo build --target $TARGET
   - cargo test --target $TARGET
 
 before_deploy:

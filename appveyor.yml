@@ -25,7 +25,6 @@ before_deploy:
   # Generate artifacts for release
   - cargo build --release
   - mkdir staging
-  - copy fie.toml staging
   - copy target\release\*.exe staging
   - cd staging
   - 7z a ../%PROJECT_NAME%-%APPVEYOR_REPO_TAG_NAME%-%TARGET%.zip *.exe
